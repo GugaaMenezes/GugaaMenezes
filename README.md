@@ -1,8 +1,6 @@
 💫 About Me:
 
-🔭 I'm currently a Fullstack Developer<br>
-
-⚡ Fun fact
+🔭 404 Not Found 
 
 
 ## 🌐 Socials:
